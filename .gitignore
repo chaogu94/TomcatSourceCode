@@ -30,6 +30,7 @@ mvn.properties
 .project
 .settings
 .idea
+target
 *.iml
 *.ipr
 *.iws
@@ -44,3 +45,4 @@ java/org/apache/catalina/startup/catalina.properties
 modules/jdbc-pool/bin
 modules/jdbc-pool/includes
 webapps/docs/jdbc-pool.xml
+
